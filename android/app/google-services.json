@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715524784111",
+    "project_id": "sentiment-analysis-dca76",
+    "storage_bucket": "sentiment-analysis-dca76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715524784111:android:a01ea61deb94386573801a",
+        "android_client_info": {
+          "package_name": "com.example.emotion_recognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFN0URFA6kEw52mRbLVeyn_xJ8ilNunE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
